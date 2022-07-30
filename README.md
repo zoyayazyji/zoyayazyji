@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Zoya </h1>
+<h2> Hi there 👋 I'm Zoya </h2>
 <p>📝 Development skills: JavaScript, React, Redux, css, html</p>
 <p>🌱 I’m currently learning Node.js</p>
 <p>🌍 I speak Russian (native), English (B2)</p>
