@@ -1,6 +1,6 @@
-<h2> Hi there 👋 I'm Zoya </h2>
-<p>📝 Development skills: JavaScript, React, Redux, css, html</p>
-<p>🌱 I’m currently learning Node.js</p>
+<h2> Hi there 👋 </h2>
+<p>📝 Frontend skills: JavaScript, React, Redux/ReduxSlice, axios, router DOM, css/sass, MUI, html</p>
+<p>🌱 Backend skills: mongodb, mongoose, postgress, ORM, MySQL</p>
 <p>🌍 I speak Russian (native), English (B2)</p>
 <p>📫 How to reach me: zyazyji@gmail.com</P>
 
