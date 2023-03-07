@@ -1,6 +1,6 @@
 <h2> Hi there 👋 </h2>
 <p>📝 Frontend skills: JavaScript, React, Redux/ReduxSlice, axios, router DOM, css/sass, MUI, html</p>
-<p>🌱 Backend skills: mongodb, mongoose, postgress, ORM, MySQL</p>
+<p>🌱 Backend skills: mongodb, mongoose, postgreSql, TypeORM, MySQL</p>
 <p>🌍 I speak Russian (native), English (B2)</p>
 <p>📫 How to reach me: zyazyji@gmail.com</P>
 
